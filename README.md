@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-rokade&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-rokade" /> </p>
 
-- 🌱 Data Science Enthusiast**
+- 🌱 Data Science Enthusiast
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
