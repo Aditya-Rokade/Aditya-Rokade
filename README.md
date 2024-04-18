@@ -1,11 +1,22 @@
 <h1 align="center">Hi 👋, I'm Aditya Rokade</h1>
-<h3 align="center">A passionate python developer from Pune</h3>
+<h3 align="center">A Python and Data Science enthusiast from Pune.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-rokade&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-rokade" /> </p>
+🎓 I'm currently pursuing my third year in Computer Engineering.
 
-- 🌱 Data Science Enthusiast
+🌱 I'm passionate about Python programming and Data Science.
+
+## About Me
+
+- 💻 Currently pursuing a Bachelor's degree in Computer Engineering.
+- 🐍 Python enthusiast.
+- 📊 Interested in Data Science and Machine Learning.
+- 🔍 Always learning and exploring new technologies.
 
 <h3 align="left">Connect with me:</h3>
+Email - aditya.rokade43@gmail.com
+<br>
+<br>
 <p align="left">
 <a href="https://linkedin.com/in/aditya-rokade-1427b9279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-rokade-1427b9279" height="30" width="40" /></a>
 <a href="https://instagram.com/_aditya_r37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aditya_r37" height="30" width="40" /></a>
